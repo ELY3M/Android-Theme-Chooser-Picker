@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_arrdisp__app_themes" translatable="false">
+        <item translatable="false">Default</item>
+        <item translatable="false">White</item>
+        <item translatable="false">Whitest</item>
+        <item translatable="false">MixedBlue</item>
+        <item translatable="false">DarkBlue</item>
+        <item translatable="false">Orange</item>
+        <item translatable="false">Dark</item>
+        <item translatable="false">Black</item>
+        <item translatable="false">Green</item>
+        <item translatable="false">Gray</item>
+        <item translatable="false">BlackAqua</item>
+        <item translatable="false">BlackNeonGreen</item>
+    </string-array>
+    <string-array name="pref_arrkeys__app_themes" translatable="false">
+        <item translatable="false">default</item>
+        <item translatable="false">white</item>
+        <item translatable="false">whitest</item>
+        <item translatable="false">mixedblue</item>
+        <item translatable="false">darkblue</item>
+        <item translatable="false">orange</item>
+        <item translatable="false">dark</item>
+        <item translatable="false">black</item>
+        <item translatable="false">green</item>
+        <item translatable="false">gray</item>
+        <item translatable="false">blackaqua</item>
+        <item translatable="false">blackneongreen</item>
+    </string-array>
+</resources>

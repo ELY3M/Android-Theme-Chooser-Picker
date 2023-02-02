@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:defaultValue="default"
+        android:dialogTitle="Theme"
+        android:entries="@array/pref_arrdisp__app_themes"
+        android:entryValues="@array/pref_arrkeys__app_themes"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:key="THEME_KEY"
+        android:summary="%1$s"
+        android:title="Theme" />
+
+</PreferenceScreen>
